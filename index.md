@@ -9,3 +9,7 @@ And now I am committing this practice exercise with the headings.
 ```
 <strong> Like, OMG! </strong>
 ```
+
+- [ ] Trace template onto cloth
+- [ ] cut out cloth
+- [ ] sew together
